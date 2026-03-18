@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "lib": ["deno.window"],
+    "moduleResolution": "bundler",
+    "types": ["@types/deno"]
+  },
+  "importMap": "import_map.json"
+}

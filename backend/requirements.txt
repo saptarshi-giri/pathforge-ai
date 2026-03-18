@@ -1,0 +1,23 @@
+# Web framework
+fastapi
+uvicorn[standard]
+
+# File upload support
+python-multipart
+
+# ML & data
+scikit-learn
+xgboost
+numpy
+pandas
+joblib
+scipy
+
+# Resume parsing
+pdfplumber
+
+# Explainable AI (used in explainable_ai.py)
+shap
+
+# Visualization (used in industry_analyzer.py)
+matplotlib

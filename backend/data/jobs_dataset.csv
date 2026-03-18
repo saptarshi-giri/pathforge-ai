@@ -1,0 +1,13 @@
+Job_Role,Skills,Average_Salary_INR,Demand_Score,Year
+AI Engineer,Python;Deep Learning;TensorFlow;Math;NLP,1500000,90,2025
+ML Engineer,Python;ML;MLOps;Data Engineering,1450000,89,2025
+cloud_engineer,AWS;Docker;Kubernetes;Linux;Python;CI/CD;Terraform,1400000,88,2025
+devops_engineer,CI/CD;Docker;AWS;Kubernetes;Scripting;Linux;Git,1350000,84,2025
+software_developer,Java;Python;DSA;System Design;Git;SQL;Docker;microsoft;net,1250000,83,2025
+Cybersecurity Analyst,Networking;Security;Python;Ethical Hacking,1100000,82,2025
+fullstack_developer,HTML;CSS;JavaScript;React;Node;SQL;Docker;Git;npm;postgresql;mysql;microsoft;net,1100000,80,2025
+frontend_developer,HTML;CSS;JavaScript;React;TypeScript;npm;Git;Figma,950000,76,2025
+data_scientist,Python;ML;Statistics;Pandas;SQL;TensorFlow;Scikit-Learn,1200000,85,2025
+Web Developer,HTML;CSS;JavaScript;React;Node,800000,75,2025
+Business Analyst,Excel;SQL;Visualization;Communication,900000,70,2025
+Data Analyst,SQL;Excel;Python;PowerBI,850000,72,2025

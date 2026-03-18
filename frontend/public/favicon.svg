@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6d5dfc"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Rounded square background -->
+  <rect width="32" height="32" rx="8" fill="url(#bg)"/>
+
+  <!-- Lucide Sparkles paths, scaled/centered to fit 32x32 -->
+  <g transform="translate(4, 4) scale(1.0)" stroke="white" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- sparkle rays top-right -->
+    <path d="M12 3 L13 7 L17 8 L13 9 L12 13 L11 9 L7 8 L11 7 Z"/>
+    <!-- small sparkle bottom-left -->
+    <path d="M5 17 L5.7 19 L7.7 19 L6 20.2 L6.7 22.2 L5 21 L3.3 22.2 L4 20.2 L2.3 19 L4.3 19 Z"/>
+    <!-- tiny dot top-left -->
+    <circle cx="19" cy="17" r="1.2" fill="white" stroke="none"/>
+  </g>
+</svg>
