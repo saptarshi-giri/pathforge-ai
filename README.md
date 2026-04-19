@@ -7,7 +7,6 @@ Analyze resumes. Predict careers. Bridge skill gaps. Build learning paths.
 ![XGBoost](https://img.shields.io/badge/Model-XGBoost-red)
 ![Explainable AI](https://img.shields.io/badge/XAI-SHAP-purple)
 ![Database](https://img.shields.io/badge/Database-PostgreSQL-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
