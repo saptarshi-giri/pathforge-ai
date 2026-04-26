@@ -1,4 +1,4 @@
-# CareerLens — AI Career Recommendation System
+# pathforgeAI — AI Career Recommendation System
 
 Analyze resumes. Predict careers. Bridge skill gaps. Build learning paths.
 
